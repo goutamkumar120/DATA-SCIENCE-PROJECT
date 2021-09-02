@@ -1,6 +1,5 @@
 # DATA-SCIENCE-PROJECT
-Project name:
-"FAKE NEWS DETECTION using MACHINE LEARNING & DEEP LEARNING
+Project name:" FAKE NEWS DETECTION using MACHINE LEARNING & DEEP LEARNING "
 
 [Training Dataset link]{https://www.kaggle.com/c/fake-news/data?select=train.csv}
 
