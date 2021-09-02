@@ -1,5 +1,6 @@
 # DATA-SCIENCE-PROJECT
-Different projects done under Data Science domain.
+Project name:
+"FAKE NEWS DETECTION using MACHINE LEARNING & DEEP LEARNING
 
 [Training Dataset link]{https://www.kaggle.com/c/fake-news/data?select=train.csv}
 
